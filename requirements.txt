@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+ytmusicapi
+scipy
+numpy
+jinja2
+aiofiles
+requests
+yt-dlp
+soundfile
+pydub
+matplotlib
